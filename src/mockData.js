@@ -11,7 +11,7 @@ export default {
       {
         "id": 2,
         "name": "Nugget",
-        "currentWeight": 201,
+        "currentWeight": 205,
         "lastWeighDate": 1567082160,
         "currentLocation": 1,
       }
