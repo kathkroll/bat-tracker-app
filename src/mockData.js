@@ -4,7 +4,7 @@ export default {
       {
         "id": 1,
         "name": "Weka",
-        "currentWeight": 345,
+        "currentWeight": 347,
         "lastWeighDate": 1568494994,
         "currentLocation": 2,
       },
